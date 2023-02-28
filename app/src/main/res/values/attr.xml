@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DialView">
+        <attr name="fun_off" format="reference" />
+        <attr name="fun_on" format="reference" />
+    </declare-styleable>
+
+    <declare-styleable name="CounterView">
+        <attr name="count_up" format="boolean" />
+    </declare-styleable>
+</resources>
